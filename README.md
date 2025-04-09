@@ -26,11 +26,9 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-![JohnBeth10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnBeth10&show_icons=true&theme=radical)
+![JohnBeth10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnBeth10&show_icons=true&count_private=true&theme=tokyonight)
 
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBeth10&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBeth10&layout=compact&langs_count=10&theme=dark)
 
 ---
 
