@@ -26,9 +26,11 @@
 
 ## 📊 GitHub Stats
 
-![John Bethlehem's](https://github-readme-stats.vercel.app/api?username=JohnBeth10&show_icons=true&theme=radical)
+<!-- GitHub Stats -->
+![JohnBeth10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnBeth10&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBeth10&layout=compact&theme=radical)
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBeth10&layout=compact&langs_count=10&theme=radical)
 
 ---
 
