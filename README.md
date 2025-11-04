@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **bethlehempallan10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14f3UrKh8jG5upJI9W8gd_oMWIbYgptyE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](will be updated soon.)
 
 - ⚡ Fun fact **I think I’m funny, and I love learning new tech things every day 😄**
 
